@@ -26,7 +26,7 @@ In short, `repo_docs/pc-md` is a minimal, Git‑based repository that provides c
 
 ## Architecture
 
-**Architecture of the `repo_docs/pc-md` codebase**
+**Architecture of the `MAXNORM8650/pc-md` codebase**
 
 | Aspect | Description |
 |--------|-------------|
